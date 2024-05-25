@@ -3455,7 +3455,7 @@ label {
     transform: skewX(240deg);
     position: relative;
     z-index: -1;
-    opacity: 0.8;
+    opacity: 1;
 }
 .hero-1 .ripple-1,
 .hero-1 .ripple-2,
