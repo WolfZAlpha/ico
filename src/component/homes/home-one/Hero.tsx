@@ -26,7 +26,11 @@ const Hero = () => {
                      </div>
                   </div>
                   <div className="col-lg-9">
-                     <h1 className="hero-title">PROSPERA: Empowering the Underdog</h1>
+                     <h1 className="hero-title">
+                        <span style={{ color: "#01ff02" }}>Prospera</span>
+                        <br />
+                        Empowering the Underdog
+                     </h1>
                   </div>
                </div>
             </div>
