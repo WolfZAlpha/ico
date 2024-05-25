@@ -3502,7 +3502,7 @@ label {
     animation-delay: 8s;
 }
 .hero-1 .hero-thumb {
-    margin: 0 -30px;
+    margin: 0;
 }
 @keyframes ripple {
     0% {
