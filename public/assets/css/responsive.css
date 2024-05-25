@@ -661,52 +661,52 @@
 
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 576px) {
-    .container,
-    .custom-container {
-      max-width: 540px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      flex-direction: column;
-    }
-    .chart-wrap .chart {
-      width: 340px;
-      height: 340px;
-    }
-    .banner-content .title {
-      font-size: 50px;
-    }
-    .coming-time {
-      gap: 20px 20px;
-    }
-    .blog-masonry-thumb img {
-      height: 300px;
-    }
-    .blog-masonry-content .title {
-      font-size: 24px;
-    }
-    .blog-standard-content .title {
-      font-size: 24px;
-    }
-    .blog-widget {
-      padding: 45px 30px 50px;
-    }
-    .document-form-wrap {
-      padding: 50px 30px 40px;
-    }
-    .document-wrap {
-      padding: 50px 30px 40px;
-    }
-    .comment-respond {
-      padding: 40px 30px 45px;
-    }
-    .blog-details-content blockquote p {
-      font-size: 22px;
-    }
-    .contact-form {
-      padding: 50px 30px;
-    }
+  .container,
+  .custom-container {
+    max-width: 540px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
   }
-  
+  .chart-wrap .chart {
+    width: 340px;
+    height: 340px;
+  }
+  .banner-content .title {
+    font-size: 50px;
+  }
+  .coming-time {
+    gap: 20px 20px;
+  }
+  .blog-masonry-thumb img {
+    height: 300px;
+  }
+  .blog-masonry-content .title {
+    font-size: 24px;
+  }
+  .blog-standard-content .title {
+    font-size: 24px;
+  }
+  .blog-widget {
+    padding: 45px 30px 50px;
+  }
+  .document-form-wrap {
+    padding: 50px 30px 40px;
+  }
+  .document-wrap {
+    padding: 50px 30px 40px;
+  }
+  .comment-respond {
+    padding: 40px 30px 45px;
+  }
+  .blog-details-content blockquote p {
+    font-size: 22px;
+  }
+  .contact-form {
+    padding: 50px 30px;
+  }
+}
+
 
