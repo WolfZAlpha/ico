@@ -30,7 +30,7 @@ const ScrollToTop = () => {
 
       window.addEventListener("scroll", checkScrollTop);
       return () => window.removeEventListener("scroll", checkScrollTop);
-   }, [checkScrollTop]);
+   }, [showScroll]);
 
    return (
       <>
@@ -38,7 +38,7 @@ const ScrollToTop = () => {
             <i className="fas fa-angle-up"></i>
          </button>
       </>
-   )
+   );
 }
 
 export default ScrollToTop;
