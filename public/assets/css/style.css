@@ -3469,7 +3469,7 @@ label {
     position: absolute;
     left: 30%;
     top: 0;
-    transform: translate(-20%, -20%);
+    transform: translate(-30%, -20%);
     background-color: transparent;
     border: 1.5px solid var(--tg-primary-color);
     border-radius: 50%;
