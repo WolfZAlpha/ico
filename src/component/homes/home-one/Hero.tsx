@@ -25,12 +25,13 @@ const Hero = () => {
                         <Image src={hero_thumb} alt="img" />
                      </div>
                   </div>
-                  <div>
+                  <div className="col-lg-9">
                      <h1 className="hero-title">
                         <span style={{ color: "#01ff02" }}>Prospera</span>
                         <br />
+                        <br />
+                        <h2 className="title style2 text-center">Empowering the Underdog</h2>
                      </h1>
-                     <h2 className="title style2 text-center">Empowering the Underdog</h2>
                   </div>
                </div>
             </div>
