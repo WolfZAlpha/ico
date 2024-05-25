@@ -47,8 +47,8 @@ const Hero = () => {
                   <div className="progress-value-max">100 Min $</div>
                </div>
                <ul className="skill-feature_list style2">
-                  <li>$1.5M Soft Cap</li>
-                  <li>$3.5 Soft Cap</li>
+                  <li>$1M Soft Cap</li>
+                  <li>$3M Soft Cap</li>
                   <li>$15M Hard Cap</li>
                </ul>
                <div className="banner-countdown-wrap">
