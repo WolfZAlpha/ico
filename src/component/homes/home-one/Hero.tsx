@@ -25,8 +25,8 @@ const Hero = () => {
                         <Image src={hero_thumb} alt="img" />
                      </div>
                   </div>
-                  <div className="col-lg-9 d-flex flex-column align-items-center">
-                     <h1 className="hero-title text-center">
+                  <div>
+                     <h1 className="hero-title">
                         <span style={{ color: "#01ff02" }}>Prospera</span>
                         <br />
                      </h1>
