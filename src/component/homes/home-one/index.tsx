@@ -19,6 +19,7 @@ const HomeOne = () => {
       <RoadMap />
       <FaqArea />
       <Brand />
+      < br />
       <FooterTwo />
     </div>
   )
