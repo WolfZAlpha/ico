@@ -2,20 +2,16 @@
 import React from 'react';
 import { useTimer } from 'react-timer-hook';
 
-const CountdownClock=()=> {
-  // Set the expiration timestamp based on the current time plus the desired duration
-  const time = new Date();
-  time.setDate(time.getDate() + 156); // 302 days
-  time.setHours(time.getHours() + 18); // 2 hours
-  time.setMinutes(time.getMinutes() + 28); // 59 minutes
-  time.setSeconds(time.getSeconds() + 59); // 59 seconds
+const CountdownClock = () => {
+  // Set the expiration timestamp to 05/27/2024
+  const expiryDate = new Date('2024-05-27T00:00:00');
 
   const {
     seconds,
     minutes,
     hours,
     days,
-  } = useTimer({ expiryTimestamp: time, onExpire: () => console.warn('onExpire called') });
+  } = useTimer({ expiryTimestamp: expiryDate, onExpire: () => console.warn('onExpire called') });
 
   return (
     <>
