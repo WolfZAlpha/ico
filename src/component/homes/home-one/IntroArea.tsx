@@ -22,7 +22,7 @@ const intro_data: DataType[] = [
       title: "Wealth",
       desc: (
          <p>
-            Unlock your path to financial freedom with $PROS token, where stable quarterly dividends transform your investments into a steady stream of passive income, empowering you to live freely on your terms.;
+            Unlock your path to financial freedom with $PROS token, where stable quarterly dividends transform your investments into a steady stream of passive income, empowering you to live freely on your terms.
          </p>
       ),
    },
@@ -68,7 +68,7 @@ const IntroArea = () => {
                         At Prospera, we are revolutionizing wealth management in the digital age. Our mission is to empower our token holders with sustainable passive income through quarterly dividends and an innovative staking mechanism that offers daily yield. 
                      </p>
                      <p className="intro-wrap-text mt-40">
-                        Fuel your financial growth with a percentage of profits from our cutting-edge private wealth crypto hedge fund. Don't miss out on this unparalleled opportunity to secure quarterly dividends based on your holdings and be part of the future of wealth management. Join Prospera today and start reaping the benefits!
+                        Fuel your financial growth with a percentage of profits from our cutting-edge private wealth crypto hedge fund. Do not miss out on this unparalleled opportunity to secure quarterly dividends based on your holdings and be part of the future of wealth management. Join Prospera today and start reaping the benefits!
                      </p>
                      <p className="intro-wrap-text mt-40">
                         We are committed to maintaining a robust tokenomics ecosystem that ensures liquidity and promotes growth through continuous reinvestment in marketing, events, and community engagement.

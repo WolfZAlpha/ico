@@ -27,16 +27,7 @@ const Hero = () => {
                   </div>
                   <div className="col-lg-9">
                      <h1 className="hero-title">PROSPERA: Empowering the Underdog</h1>
-                     <div className="btn-wrap">
-                        <Link href="/contact" className="btn btn2" >
-                           Purchase a Token
-                        </Link>
-                        <Link href="/blog" className="btn btn-two" >
-                           Read  Documents
-                        </Link>
-                     </div>
                   </div>
-
                </div>
             </div>
             <div className="hero-countdown-wrap">
@@ -48,7 +39,7 @@ const Hero = () => {
                </ul>
                <div className="skill-feature">
                   <div className="progress">
-                     <div className="progress-bar" style={{ width: "80%" }}>
+                     <div className="progress-bar" style={{ width: "10%" }}>
                      </div>
                   </div>
                   <div className="progress-value-max">100 Min $</div>
