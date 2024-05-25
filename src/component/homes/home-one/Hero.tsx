@@ -29,7 +29,8 @@ const Hero = () => {
                      <h1 className="hero-title">
                         <span style={{ color: "#01ff02" }}>Prospera</span>
                         <br />
-                        Empowering the Underdog
+                        <br />
+                        <h2 className="title style2">Empowering the Underdog</h2>
                      </h1>
                   </div>
                </div>

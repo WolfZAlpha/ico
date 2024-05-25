@@ -25,8 +25,6 @@ const FooterTwo = () => {
                                     fill="currentColor"></path>
                               </svg>
                            </Link>
-                           <Link href="https://www.instagram.com/"><i className="fab fa-instagram"></i></Link>
-                           <Link href="https://www.linkedin.com/"><i className="fab fa-linkedin"></i></Link>
                         </div>
                      </div>
                   </div>

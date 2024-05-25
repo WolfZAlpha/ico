@@ -3469,13 +3469,13 @@ label {
     position: absolute;
     left: 30%;
     top: 0;
-    transform: translate(-40%, -40%);
+    transform: translate(-30%, -30%);
     background-color: transparent;
-    border: 1px solid var(--tg-primary-color);
+    border: 1.5px solid var(--tg-primary-color);
     border-radius: 50%;
     animation: ripple2 10s linear infinite;
     opacity: 0;
-    transition: 0.4s;
+    transition: 0.3s;
 }
 .hero-1 .ripple-1 {
     animation-delay: 0;
