@@ -63,8 +63,8 @@ const choose_data: DataType2[] = [
    {
       id: 1,
       icon: icon_1,
-      title: "Prospera Aims To Create A Stable EcoSystem",
-      desc: "Utilizing A Nex-Gen Trading A.I. To Generate Rewards For Holders Paid Out In USDC",
+      title: "Prospera Aims To Create A Stable Ecosystem",
+      desc: "Utilizing a nex-gen trading A.I. to generate rewards for holders paid out in $USDC",
    },
    {
       id: 2,

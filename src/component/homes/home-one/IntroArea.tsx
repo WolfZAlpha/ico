@@ -19,19 +19,19 @@ const intro_data: DataType[] = [
    },
    {
       id: 2,
-      title: "Wealth?",
+      title: "Wealth",
       desc: (
          <p>
-            &quot;Unlock your path to financial freedom with $PROS token, where stable quarterly dividends transform your investments into a steady stream of passive income, empowering you to live freely on your terms.&quot;
+            Unlock your path to financial freedom with $PROS token, where stable quarterly dividends transform your investments into a steady stream of passive income, empowering you to live freely on your terms.;
          </p>
       ),
    },
    {
       id: 3,
-      title: "True Riches?",
+      title: "True Riches",
       desc: (
          <p>
-            Fuck All The Bullshit! The Insanity Of Our Growth Attracts The Whole Community. Once $PROS Has A Full Quarter Underneath Our Belt, Game Over! Send it higher!
+            Fuck all the bullshit! The insanity of our growth attracts the whole community. Once $PROS has a full quarter underneath our belt, Game Over! Send it higher!
          </p>
       ),
    },
@@ -65,7 +65,10 @@ const IntroArea = () => {
                   <div className="intro-wrap mt-50">
                      <h6 className="intro-wrap-title">Our Mission & Vision</h6>
                      <p className="intro-wrap-text mt-40">
-                        At Prospera, we are dedicated to redefining wealth management in the digital era. Our mission is to empower our token holders by distributing sustainable passive income through quarterly dividends, fueled by a percentage of profits from our pioneering private wealth crypto hedge fund. (applies to all transactions and gives a monthly dividend)
+                        At Prospera, we are revolutionizing wealth management in the digital age. Our mission is to empower our token holders with sustainable passive income through quarterly dividends and an innovative staking mechanism that offers daily yield. 
+                     </p>
+                     <p className="intro-wrap-text mt-40">
+                        Fuel your financial growth with a percentage of profits from our cutting-edge private wealth crypto hedge fund. Don't miss out on this unparalleled opportunity to secure quarterly dividends based on your holdings and be part of the future of wealth management. Join Prospera today and start reaping the benefits!
                      </p>
                      <p className="intro-wrap-text mt-40">
                         We are committed to maintaining a robust tokenomics ecosystem that ensures liquidity and promotes growth through continuous reinvestment in marketing, events, and community engagement.
