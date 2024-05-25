@@ -91,7 +91,7 @@ const ChooseArea = () => {
                <div className="row gy-5">
                   <div className="col-lg-7">
                      <div className="section-title mb-0">
-                        <h2 className="title style2">Why You Choose $PROS?</h2>
+                        <h2 className="title style2">Why Choose $PROS?</h2>
                         <p className="sec-text">Choose $PROS token to harness the innovative power of DeFi, <br /> securing your financial future with reliable dividends and a sustainable, <br />growth-focused ecosystem 
                         </p>
                      </div>
