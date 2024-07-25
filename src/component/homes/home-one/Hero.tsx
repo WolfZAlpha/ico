@@ -27,7 +27,7 @@ const Hero = () => {
                   </div>
                   <div className="col-lg-9 d-flex flex-column">
                      <h1 className="hero-title">
-                        <span style={{ color: "#01ff02" }}>Prospera<h2 className="title style2">Pioneering The Future</h2></span>
+                        <span style={{ color: "#01ff02" }}>Prosperav2<h2 className="title style2">Pioneering The Future</h2></span>
                      </h1>
                   </div>
                </div>
