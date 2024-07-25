@@ -28,7 +28,7 @@ const amount_data: DataType[] = [
    {
       id: 1,
       title: "Tier 1 Pre-Sale $PROS Price",
-      price: "$0.009",
+      price: "$0.02",
       skill: "10%",
       value: "0.005",
       value_2: "0.15",
@@ -36,7 +36,7 @@ const amount_data: DataType[] = [
    {
       id: 2,
       title: "Tier 2 Pre-Sale $PROS Price",
-      price: "$0.04",
+      price: "$0.08",
       skill: "20%",
       value: "0.005",
       value_2: "0.15",
@@ -44,7 +44,7 @@ const amount_data: DataType[] = [
    {
       id: 3,
       title: "ICO $PROS Price",
-      price: "$0.09",
+      price: "$0.16",
       skill: "63%",
       value: "0.01",
       value_2: "0.15",
@@ -52,10 +52,10 @@ const amount_data: DataType[] = [
    {
       id: 3,
       title: "Listing $PROS Price",
-      price: "0.15 $",
+      price: "$0.35",
       skill: "100%",
       value: "0.04",
-      value_2: "0.15",
+      value_2: "0.40",
    },
 ];
 

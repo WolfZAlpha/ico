@@ -19,12 +19,12 @@ const partner_data: DataType[] = [
    {
       id: 1,
       icon: partnerThumb_1,
-      desc: (<>Send in $BTC</>),
+      desc: (<>Send in $ETH</>),
    },
    {
       id: 2,
       icon: partnerThumb_2,
-      desc: (<>Send in $ETH</>),
+      desc: (<>Send in $AVAX</>),
    },
    {
       id: 3,
@@ -34,12 +34,12 @@ const partner_data: DataType[] = [
    {
       id: 4,
       icon: partnerThumb_4,
-      desc: (<>Send in $ARB</>),
+      desc: (<>Send in $BASE</>),
    },
    {
       id: 5,
       icon: partnerThumb_5,
-      desc: (<>Send in $USDT</>),
+      desc: (<>Send in $BNB</>),
    },
 ];
 
@@ -99,7 +99,7 @@ const PartnerArea = () => {
       <div className="pt-130 bg-black2 pb-20">
          <div className="container">
             <div className="section-title text-center mb-50">
-               <h2 className="title style2">Crypto We Accept</h2>
+               <h2 className="title style2">LayerZero Expansion ICO</h2>
             </div>
             <div className="slider-area">
                <Slider {...settings} className="row partner-slider1">
