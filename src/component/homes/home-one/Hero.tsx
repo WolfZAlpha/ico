@@ -44,7 +44,7 @@ const Hero = () => {
                      <div className="progress-bar" style={{ width: "10%" }}>
                      </div>
                   </div>
-                  <div className="progress-value-max">100 Min $</div>
+                  <div className="progress-value-max">$150 Min</div>
                </div>
                <ul className="skill-feature_list style2">
                   <li>$1M Soft Cap</li>
@@ -52,7 +52,7 @@ const Hero = () => {
                   <li>$15M Hard Cap</li>
                </ul>
                <div className="banner-countdown-wrap">
-                  <div className="coming-time" data-countdown="2024/5/25">
+                  <div className="coming-time" data-countdown="2024/7/27">
                   <CountdownClock />
                   </div>
                </div>
