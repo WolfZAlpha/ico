@@ -9,7 +9,7 @@ const road_map_data: DataType[] = [
    {
       id: 1,
       sub_title: "July 2024",
-      title: "$PROS Goes Live",
+      title: "$PROS ICO Goes Live",
       desc: "Embarking on a transformative journey towards unprecedented growth and innovation.",
    },
    {
