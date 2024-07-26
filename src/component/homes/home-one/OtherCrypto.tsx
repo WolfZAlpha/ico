@@ -3,11 +3,11 @@ import Image, { StaticImageData } from "next/image";
 import Link from "next/link";
 import Slider from "react-slick";
 
-import partnerThumb_1 from "@/assets/img/othercrypto/btc.svg"
-import partnerThumb_2 from "@/assets/img/othercrypto/eth.svg"
+import partnerThumb_1 from "@/assets/img/othercrypto/eth.svg"
+import partnerThumb_2 from "@/assets/img/othercrypto/avax.svg"
 import partnerThumb_3 from "@/assets/img/othercrypto/sol.svg"
-import partnerThumb_4 from "@/assets/img/othercrypto/arb.svg"
-import partnerThumb_5 from "@/assets/img/othercrypto/tether.svg"
+import partnerThumb_4 from "@/assets/img/othercrypto/bnb.svg"
+import partnerThumb_5 from "@/assets/img/othercrypto/base.svg"
 
 interface DataType {
    id: number;
@@ -34,12 +34,12 @@ const partner_data: DataType[] = [
    {
       id: 4,
       icon: partnerThumb_4,
-      desc: (<>Send in $BASE</>),
+      desc: (<>Send in $BNB</>),
    },
    {
       id: 5,
       icon: partnerThumb_5,
-      desc: (<>Send in $BNB</>),
+      desc: (<>Send in $BASE</>),
    },
 ];
 
